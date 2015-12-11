@@ -1,1 +1,1 @@
-Explain what the 'upstream' remote is usually used for.
+Upstream descrides a direction of information flow. When changes are made to a project, these are sent back upstream to ensure that everyone is pulling from the same source.
