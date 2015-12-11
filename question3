@@ -1,1 +1,1 @@
-Explain what a branch is
+Branching allows user to work on a project with out messing up the main line. Once happy the part of the project that has been worked on works, it is possible to merge this branch back to the main branch.
